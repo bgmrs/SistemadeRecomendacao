@@ -6,7 +6,7 @@
 
 **Filtragem Colaborativa de Usuários**: Especificamente, este método é um tipo de filtragem colaborativa centrada em usuários. A ideia principal é encontrar usuários semelhantes ao usuário alvo (com base em suas avaliações) e recomendar itens que esses usuários semelhantes gostaram. O foco está em encontrar padrões nas preferências dos usuários para gerar recomendações.
 
-### Resumo das Etapas do Sistema
+## Resumo das Etapas do Sistema
 
   - **Encontro de Usuários Semelhantes**: Localizar outros usuários que gostaram dos mesmos filmes que o usuário alvo.
 
