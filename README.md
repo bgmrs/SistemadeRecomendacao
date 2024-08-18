@@ -12,6 +12,10 @@
 
   - **Geração de Recomendações**: Sugerir filmes que foram bem avaliados pelos usuários semelhantes, mas que ainda não foram avaliados pelo usuário alvo.
 
+## Linguagem
+
+Este projeto é desenvolvido em **SQL**.
+
 ## Contribuição
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e enviar pull requests.
 
